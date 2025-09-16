@@ -1,4 +1,3 @@
 ﻿
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Version1");
-Console.WriteLine("Version2");
+Console.WriteLine("add_something1");
